@@ -1,0 +1,1 @@
+App Service - small application that does not justify the administrative and cost overhead of its own server.
